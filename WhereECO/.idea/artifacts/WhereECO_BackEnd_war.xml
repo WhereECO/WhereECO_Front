@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WhereECO_BackEnd:war">
+    <output-path>$PROJECT_DIR$/WhereECO_BackEnd/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>WhereECO_BackEnd</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WhereECO_BackEnd-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WhereECO_BackEnd:war exploded" />
+    </root>
+  </artifact>
+</component>

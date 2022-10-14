@@ -68,7 +68,7 @@
 <body>
 <div class="container">
 	<form:form method="post" modelAttribute="user">
-	<img src="<c:url value="/images/logo1.png"/>">
+	<img src="<c:url value="/images/wherelogo.png"/>">
 	<div class="title"> ${ user.id > 0 ? "수정" : "등록" }</div>
 	<form>
 		<table>

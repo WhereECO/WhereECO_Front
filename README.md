@@ -24,7 +24,7 @@ Air-Alarm-IOS/Air-Alarm
 <img width="1080" alt="2" src="https://user-images.githubusercontent.com/72500673/196350862-1b3c8284-8c1a-4051-b8da-af799ae958bc.png">
 <img width="1080" alt="3" src="https://user-images.githubusercontent.com/72500673/196350882-b4b83c45-bbd6-4323-9954-4517c9d4b978.png">
 <img width="1080" alt="4" src="https://user-images.githubusercontent.com/72500673/196350890-4170d677-daa8-4dbf-98b1-58dc0618c086.png">
-<img width="1080" alt="5" src="https://user-images.githubusercontent.com/72500673/196350902-ff1f56ee-225b-4b59-a951-6cb60ff41b9d.png">
+<img width="1080" alt="5" src="https://user-images.githubusercontent.com/72500673/196353560-c0bf845e-7ac1-4e76-872d-1807db464c2e.png">
 
 
 
